@@ -10,7 +10,13 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <WebStackScaffolding_ViewDialogWidth>600</WebStackScaffolding_ViewDialogWidth>
+<<<<<<< .mine
     <NameOfLastUsedPublishProfile>Pub</NameOfLastUsedPublishProfile>
+||||||| .r93
+    <NameOfLastUsedPublishProfile>pub</NameOfLastUsedPublishProfile>
+=======
+    <NameOfLastUsedPublishProfile>publish_Dinesh</NameOfLastUsedPublishProfile>
+>>>>>>> .r97
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

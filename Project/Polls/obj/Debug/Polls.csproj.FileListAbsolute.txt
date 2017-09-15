@@ -83,7 +83,6 @@ D:\SVN Project\trunk\Polls\bin\Microsoft.Owin.Security.OAuth.xml
 D:\SVN Project\trunk\Polls\bin\Microsoft.Owin.Security.Google.xml
 D:\SVN Project\trunk\Polls\bin\Microsoft.Owin.Security.Twitter.xml
 D:\SVN Project\trunk\Polls\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\SVN Project\trunk\Polls\obj\Debug\Polls.csprojResolveAssemblyReference.cache
 D:\SVN Project\trunk\Polls\obj\Debug\Polls.dll
 D:\SVN Project\trunk\Polls\obj\Debug\Polls.pdb
 F:\Project\poll\trunk\Polls\bin\ApplicationInsights.config
